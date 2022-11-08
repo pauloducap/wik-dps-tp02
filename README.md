@@ -1,2 +1,3 @@
 # wik-dps-tp02
-Scan de l'image :![image](https://media.discordapp.net/attachments/773985414439895083/1034466792631963748/unknown.png)
+##Pour run le projet : ```docker run -it -p 8080:8080 wiktp2 ``` </br>
+##Scan de l'image :![image](https://media.discordapp.net/attachments/773985414439895083/1034466792631963748/unknown.png)
